@@ -1,0 +1,1 @@
+web: gunicorn prakash.wsgi --log-file -
